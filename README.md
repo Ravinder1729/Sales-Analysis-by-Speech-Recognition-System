@@ -9,6 +9,6 @@
 ### Setup Instructions
 ### Usage
 ###  Features
-*Voice Command Input: 
+* Voice Command Input: 
 
 
