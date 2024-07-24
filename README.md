@@ -8,6 +8,7 @@
 ### Features
 ### Setup Instructions
 ### Usage
+### License
 ###  Features
 * ### Voice Command Input:
   Record voice commands and transcribe them using OpenAI's Whisper model.
@@ -21,7 +22,6 @@
 ### Prerequisites
 * Python 3.8 or higher
 * Streamlit
-* OpenAI API key
 * OpenAI API key
 * Required Python packages
 ## Set up OpenAI API key:
@@ -39,6 +39,8 @@ Use the built-in audio recorder to capture your voice commands.
 The application will transcribe the audio and generate an SQL query based on the transcribed text.
 ### 4. Execute Query and Visualize Data:
 The SQL query is executed on the MySQL database, and the results are fetched and displayed. Additionally, Plotly visualizations are generated based on the results.
+### License
+This project is licensed under the MIT License.
 
 
 
