@@ -9,6 +9,8 @@
 ### Setup Instructions
 ### Usage
 ###  Features
-* Voice Command Input: 
+* Voice Command Input:Record voice commands and transcribe them using OpenAI's Whisper model.
+* SQL Query Generation:Convert transcribed voice commands into SQL queries using GPT-3.5-turbo.
+* Data Visualization:
 
 
