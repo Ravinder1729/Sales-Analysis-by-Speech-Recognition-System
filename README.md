@@ -9,8 +9,13 @@
 ### Setup Instructions
 ### Usage
 ###  Features
-* Voice Command Input:Record voice commands and transcribe them using OpenAI's Whisper model.
-* SQL Query Generation:Convert transcribed voice commands into SQL queries using GPT-3.5-turbo.
-* Data Visualization:
+* ###Voice Command Input:
+  Record voice commands and transcribe them using OpenAI's Whisper model.
+* ###SQL Query Generation:
+  Convert transcribed voice commands into SQL queries using GPT-3.5-turbo.
+* ###Data Visualization:
+  Generate and display visualizations of the query results using Plotly.
+* ###User-Friendly Interface:
+ Easy-to-use interface built with Streamlit.
 
 
