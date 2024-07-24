@@ -41,6 +41,31 @@ The application will transcribe the audio and generate an SQL query based on the
 The SQL query is executed on the MySQL database, and the results are fetched and displayed. Additionally, Plotly visualizations are generated based on the results.
 ### 5. License
 This project is licensed under the MIT License.
-
+********************************************************************************************************************************************************
+# few insights from Data
+### Total Sales:
+What is the total sales amount for each branch and city?
+### Monthly Sales Trend:
+How do sales trends vary month-over-month?
+### Customer Type Distribution:
+What is the distribution of customer types (e.g., Member vs. Normal) in each branch?
+### Gender Distribution:
+What is the gender distribution of customers in each branch?
+### Sales by Product Line: 
+Which product lines generate the most revenue in each branch?
+### Top Sales Performers:
+Which branches or cities have the highest average rating?
+### Gross Income Analysis:
+ What is the gross income for each branch and product line?
+### Popular Payment Methods:
+What are the most popular payment methods used by customers in each city?
+### Tax Contribution:
+What is the total tax collected for each branch?
+### COGS Analysis: 
+What are the total cost of goods sold (COGS) for each branch and product line?
+### Peak Sales Hours: 
+What are the peak hours for sales in each branch?
+### Gross Margin Percentage: 
+What is the average gross margin percentage for each product line?
 
 
